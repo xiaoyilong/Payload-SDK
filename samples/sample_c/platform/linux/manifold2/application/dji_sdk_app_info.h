@@ -35,12 +35,12 @@ extern "C" {
 /* Exported constants --------------------------------------------------------*/
 // ATTENTION: User must goto https://developer.dji.com/user/apps/#all to create your own dji sdk application, get dji sdk application
 // information then fill in the application information here.
-#define USER_APP_NAME               "your_app_name"
-#define USER_APP_ID                 "your_app_id"
-#define USER_APP_KEY                "your_app_key"
-#define USER_APP_LICENSE            "your_app_license"
-#define USER_DEVELOPER_ACCOUNT      "your_developer_account"
-#define USER_BAUD_RATE              "460800"
+#define USER_APP_NAME               "WenyaoBox" 
+#define USER_APP_ID                 "164449" 
+#define USER_APP_KEY                "95f03f63786f46fbe3ef040fcb2d888"
+#define USER_APP_LICENSE            "GxpMh4FiYp/Ok5147A7vHzc+zUlDZgtUn733t8ABh2LW8jJ09VjOE+OcYSeW5YJ3ccFq/GidlxUGkbBfegMAUIhXnA4zArC5DL8ST6ADhqVXzhxQ6A4G/GXOPE9Om3xteCOr6XMEiGUkYMOk0PD8RFNz19oUCGBSXaWID/GQTkwkEchT0xurQrZiT6G9U4gI6zILsAWObRXb4JMQo/MBPY5ApMaoBNRDY+D5lGNaQe1VI0RudVW1DPavFwtXmlCKc+Rg/+aWhSc60A1hKnjbpcTXOKDMDfI8Mjh3p7SHk+FUp6oeugfk0WYOb7FQA16k3+XCvfqNVDVnvVmlBWQMqA=="
+#define USER_DEVELOPER_ACCOUNT      "caps.liu@foxmail.com"   
+#define USER_BAUD_RATE              "921600"
 
 /* Exported types ------------------------------------------------------------*/
 
